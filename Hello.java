@@ -11,4 +11,7 @@ public class Hello {
         System.out.println("HELLO WOOOORRRLLLLLDDDD_USS !!!");
     }
     
+    void addfeatureB(){
+        System.out.println("Feature B added!");
+    }
 }
